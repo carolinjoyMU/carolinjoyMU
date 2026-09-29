@@ -12,7 +12,7 @@ PhD-trained computational chemist and data analyst with 5+ years of experience t
 
 | Project | What it shows |
 |---|---|
-| [CDC PLACES County Health Priority](https://github.com/carolinjoyMU/cdc-disease-project) | Python + SQL + Tableau: scored 257 IL/MI/WI counties on disease burden and care-access gaps; identified 71 high-need counties |
+| [CDC PLACES County Health Priority](https://github.com/carolinjoyMU/cdc-disease-project) | Python + SQL + Tableau: scored 257 IL/MI/WI counties on disease burden and care-access gaps (age-adjusted); identified 77 high-need counties |
 | [EIA Electricity Price Pipeline](https://github.com/carolinjoyMU/EIA-Electricity-Price-Pipeline) | Serverless ETL: AWS Lambda + EventBridge → MySQL (idempotent upserts) → automated trend reports, with tests |
 | [Molecular-Collision-ML](https://github.com/carolinjoyMU/Molecular-Collision-ML) | PyTorch neural network predicting H₂O + H₂ state-to-state cross sections in place of expensive quantum calculations (manuscript under review) |
 | [MQCT](https://github.com/carolinjoyMU/MQCT_2026) | Fortran/MPI mixed quantum/classical scattering code for molecular collisions, run on HPC clusters |
