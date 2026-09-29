@@ -1,28 +1,31 @@
-👋 Hello, I'm Carolin Joy!
-📊 Data Scientist | 🐍 Python & Machine Learning | 🔬 PhD in Computational Chemistry
-Welcome to my GitHub profile! I build ML models and data pipelines that turn complex, high-dimensional datasets into fast, reliable predictions, with a research background applying these methods to real scientific problems.
+### Hi, I'm Carolin 👋
 
-### 🚀 About Me
-- 📈 Building end-to-end ML pipelines: data ingestion, feature engineering, model training, and evaluation (Python, scikit-learn, PyTorch)
-- ⚙️ Experience designing automated ETL pipelines and large-scale data workflows on HPC/cloud infrastructure
-- 🎓 PhD in Computational Chemistry, Marquette University (2025); currently a Postdoctoral Research Associate
-- 📊 Track record of rigorous analysis across 11+ peer-reviewed publications"
+PhD-trained computational chemist and data analyst with 5+ years of experience turning complex scientific data into reliable, decision-ready insights: data analysis, statistical modeling, automation, visualization, machine learning and high-performance computing.
 
-### 💡 Featured Project
-**[h2o-h2-cross-section-ml](https://github.com/carolinjoyMU/h2o-h2-cross-section-ml)**: neural network model predicting molecular collision properties directly from cheaper input data, replacing expensive simulations with a fast ML surrogate. Manuscript currently under review.
+- Built and validated datasets of **500,000+ molecular transitions**
+- Optimized a key computational step by **~200×** with automated Python workflows
+- Applied **machine learning** to scientific prediction problems; 11+ peer-reviewed publications
 
-### 🔍 Technical Interests
-- Machine learning & predictive modeling
-- Data engineering & ETL pipelines (SQL, AWS)
-- Large-scale data analysis & visualization
-- Applied ML across scientific and industry domains
+**Open to:** Data Analyst · Data Scientist · Computational Scientist · BI Analyst roles (remote or Midwest)
 
-### 📫 Let's Connect!
-I'm always excited to collaborate on interesting projects or discuss opportunities in data science and machine learning.
-- 📧 Email: carolinjoy72@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/carolinjoy/
+#### Featured projects
 
-<!---
-carolinjoyMU/carolinjoyMU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| Project | What it shows |
+|---|---|
+| [CDC PLACES County Health Priority](https://github.com/carolinjoyMU/cdc-disease-project) | Python + SQL + Tableau: scored 257 IL/MI/WI counties on disease burden and care-access gaps; identified 71 high-need counties |
+| [EIA Electricity Price Pipeline](https://github.com/carolinjoyMU/EIA-Electricity-Price-Pipeline) | Serverless ETL: AWS Lambda + EventBridge → MySQL (idempotent upserts) → automated trend reports, with tests |
+| [Molecular-Collision-ML](https://github.com/carolinjoyMU/Molecular-Collision-ML) | PyTorch neural network predicting H₂O + H₂ state-to-state cross sections in place of expensive quantum calculations (manuscript under review) |
+| [MQCT](https://github.com/carolinjoyMU/MQCT_2026) | Fortran/MPI mixed quantum/classical scattering code for molecular collisions, run on HPC clusters |
+
+#### Toolkit
+
+**Data & analytics:** SQL (MySQL, SQLite), Python (pandas, NumPy, Matplotlib), Tableau, Power BI  
+**Machine learning:** scikit-learn, PyTorch  
+**Engineering & cloud:** AWS Lambda, EventBridge, SQLAlchemy, Git, Bash  
+**HPC & scientific computing:** Fortran, MPI, OpenMP, SLURM (NASA Discover, NERSC Perlmutter)
+
+#### Background
+
+PhD Chemistry, Marquette University (2025) · Postdoctoral Research Associate, NASA/NSF-funded research
+
+[LinkedIn](https://www.linkedin.com/in/carolinjoy/) · carolinjoy72@gmail.com
